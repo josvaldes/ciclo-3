@@ -1,0 +1,16 @@
+D:\Hopitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.deps.json
+D:\Hopitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.dll
+D:\Hopitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.pdb
+D:\Hopitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.csprojAssemblyReference.cache
+D:\Hopitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.AssemblyInfoInputs.cache
+D:\Hopitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.AssemblyInfo.cs
+D:\Hopitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.dll
+D:\Hopitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.pdb
+D:\Hospitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.deps.json
+D:\Hospitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.dll
+D:\Hospitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.pdb
+D:\Hospitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.csprojAssemblyReference.cache
+D:\Hospitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.AssemblyInfoInputs.cache
+D:\Hospitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.AssemblyInfo.cs
+D:\Hospitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.dll
+D:\Hospitalizacion\HospitalEnCasa.App\HospitalEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospitalEnCasa.App.Dominio.pdb
